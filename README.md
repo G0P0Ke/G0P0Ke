@@ -9,7 +9,6 @@
 - ⚡️ Anime Fanboy 
 - 💻 Kotlin Developer 
 - 🥀 Studying at HSE University
-- <img allign="left" width="30" height="25" src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/ADEO.png"/> ADEO worker 
 
 <img align="left"  width="300" height="260"  src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Naruto-first.gif"/>  <img align="left" width="200" height="290" src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Naruto-Second.gif"/> 
 
