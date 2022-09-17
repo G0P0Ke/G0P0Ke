@@ -13,4 +13,7 @@
 
 <img align="left"  width="300" height="260"  src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Naruto-first.gif"/>  <img align="left" width="200" height="290" src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Naruto-Second.gif"/> 
 
- <a href="https://github.com/G0P0Ke"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G0P0Ke&hide_border=true&show_icons=true&theme=synthwave" alt="G0P0Ke's github stats" /></a> <a href="https://github.com/G0P0Ke"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0P0Ke&layout=compact&theme=synthwave&hide_border=true" /></a> 
+ <a href="https://github.com/G0P0Ke"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G0P0Ke&hide_border=true&show_icons=true&theme=midnight-purple&count_private=true&hide=issues" alt="G0P0Ke's github stats" />
+ </a> 
+ <a href="https://github.com/G0P0Ke"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0P0Ke&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" />
+ </a> 
