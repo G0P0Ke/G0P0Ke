@@ -1,7 +1,7 @@
 # <p align="center"> Hey hey heyyyy </p>  
 
 
-<img align="right" height="400" src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Uchiha.gif"/>
+<img align="right" width="300" height="300" src="https://github.com/G0P0Ke/G0P0Ke/blob/main/asserts/Uchiha.gif"/>
 <p align="center">
   <h2> The longer you live the more you realize that in this reality, only pain, suffering, and futility exist. </h2>
 </p>
